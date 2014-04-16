@@ -1,10 +1,9 @@
 {
   "name": "angular-meta",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "dependencies": {
     "angular": "^1.2.6",
     "angular-route": "^1.2.6"
   },
-  "main": "angular-meta.js",
-  "devDependencies": {}
+  "main": "./angular-meta.js"
 }
